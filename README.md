@@ -5,6 +5,7 @@ In this pproject, I will design the tables to hold data in the CSVs, import the 
 #### Data Modeling
 
 From inspecting the CSVs, here is my ERD:
+![erd](https://user-images.githubusercontent.com/111074755/201498307-8d162292-5dfa-470c-afec-8b4d00622f5c.png)
 
 #### Data Engineering
 
