@@ -2,12 +2,9 @@
 
 In this pproject, I will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. 
 
-5. Push these changes to GitHub.
-
-
 #### Data Modeling
 
-Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+From inspecting the CSVs, here is my ERD:
 
 #### Data Engineering
 
